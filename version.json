@@ -2,7 +2,7 @@
   "latest_version": "1.0.9",
   "minimum_version": "1.0.0",
   "download_url": "https://duke-m-o.itch.io/autobot/download/Cvnk02lA9NBYXnIVWvz_08PZ_Rx91YjEYeh1YCI2",
-  "release_notes": "2nd Generation of Autobot with more improved features.",
-  "force_update": false
+  "release_notes": "2nd Generation of Autobot with improved and new features.",
+  "force_update": true
 }
 
