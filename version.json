@@ -2,7 +2,7 @@
   "latest_version": "3.1.6",
   "minimum_version": "1.0.0",
   "download_url": "https://dialmate-portal.web.app/download.html?app=app_movobcpueek",
-  "release_notes": "New features(Advanced retry) and minor upgrade",
+  "release_notes": "New features(Advanced fallback) and minor upgrade",
   "force_update": false
 }
 
