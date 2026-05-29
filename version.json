@@ -1,8 +1,8 @@
 {
-  "latest_version": "3.1.6",
+  "latest_version": "3.3.8",
   "minimum_version": "1.0.0",
   "download_url": "https://dialmate-portal.web.app/download.html?app=app_movobcpueek",
-  "release_notes": "New features(Advanced fallback) and minor upgrade",
+  "release_notes": "New features(Anti skip mode, amount missmatch fallback,autoschedule per offer) and minor upgrade",
   "force_update": false
 }
 
