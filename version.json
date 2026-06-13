@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.5.233",
+  "latest_version": "3.5.23",
   "minimum_version": "1.0.0",
   "download_url": "https://dialmate-portal.web.app/download.html?app=app_movobcpueek",
   "release_notes": "NETWORK FAILURE RESILIENT - The new update has built retries for the network failure problem",
